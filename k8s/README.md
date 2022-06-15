@@ -33,3 +33,6 @@ kubectl apply -f  react_service.yaml
     # execute crawler/crawler_sample_and_trend.py per minute
     kubectl apply -f  cronjob_crawler.yaml
     ```
+
+## 
+[Codes Modified after deadline](https://github.com/irisowo/TSMC_NYCU_FINAL_23/tree/main/k8s)
